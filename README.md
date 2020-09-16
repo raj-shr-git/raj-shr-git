@@ -31,9 +31,11 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/pan
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/seaborn.png" />](https://seaborn.pydata.org/)
 [<img align="left" alt="Rajesh | Scikit-learn" width="95px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sklearn.jpg" />](https://scikit-learn.org/stable/)
-<br />
 [<img align="left" alt="Rajesh | Tensorflow" width="100px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/tf.png" />](https://www.tensorflow.org/)
+
+<br />
+
 [<img align="left" alt="Rajesh | Keras" width="85px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/keras.png" />](https://keras.io/)
 [<img align="left" alt="Rajesh | Scipy" width="45px" 
@@ -44,7 +46,6 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sci
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/spyder.png" />](https://www.spyder-ide.org/)
 [<img align="left" alt="Rajesh | Streamlit" width="75px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/streamlit.png" />](https://www.streamlit.io/)
-<br />
 [<img align="left" alt="Rajesh | Heroku" width="45px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/heroku.jpg" />](https://id.heroku.com/login)
 [<img align="left" alt="Rajesh | Docker" width="45px" 
@@ -53,6 +54,9 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/doc
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/git.png" />](https://git-scm.com/)
 [<img align="left" alt="Rajesh | GitHub" width="65px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/github.png" />](https://github.com/)
+
+<br />
+
 [<img align="left" alt="Rajesh | SQL" width="55px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sql.jpg" />](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
 [<img align="left" alt="Rajesh | Shell" width="40px" 
