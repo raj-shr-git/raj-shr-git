@@ -19,28 +19,12 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Rajesh | Python" width="22px" src="Supp_files/python.png" />]
-[<img align="left" alt="Rajesh | Pandas" width="22px" src="Supp_files/pandas.jpg" />]
-[<img align="left" alt="Rajesh | Numpy" width="22px" src="Supp_files/numpy.png" />]
-[<img align="left" alt="Rajesh | Matplotlib" width="22px" src="Supp_files/matplotlib.jpeg" />]
-[<img align="left" alt="Rajesh | Seaborn" width="22px" src="Supp_files/seaborn.png" />]
-[<img align="left" alt="Rajesh | Scikit-learn" width="22px" src="Supp_files/sklearn.jpg" />]
-[<img align="left" alt="Rajesh | Tensorflow" width="22px" src="Supp_files/tensorflow.png" />]
-[<img align="left" alt="Rajesh | Keras" width="22px" src="Supp_files/keras.png" />]
-[<img align="left" alt="Rajesh | Scipy" width="22px" src="Supp_files/scipy.png" />]
-[<img align="left" alt="Rajesh | Statsmodels" width="22px" src="Supp_files/statsmodels.png" />]
-[<img align="left" alt="Rajesh | Jupyter Notebook" width="22px" src="Supp_files/jupyternotebook.png" />]
-[<img align="left" alt="Rajesh | Jupyter Lab" width="22px" src="Supp_files/jupyterlab.png" />]
-[<img align="left" alt="Rajesh | Spyder" width="22px" src="Supp_files/spyder.png" />]
-[<img align="left" alt="Rajesh | Streamlit" width="22px" src="Supp_files/streamlit.png" />]
-[<img align="left" alt="Rajesh | Heroku" width="22px" src="Supp_files/heroku.png" />]
-[<img align="left" alt="Rajesh | Docker" width="22px" src="Supp_files/docker.png" />]
-[<img align="left" alt="Rajesh | Git" width="22px" src="Supp_files/git.png" />]
-[<img align="left" alt="Rajesh | GitHub" width="22px" src="Supp_files/github.png" />]
-[<img align="left" alt="Rajesh | SQL" width="22px" src="Supp_files/sql.png" />]
-[<img align="left" alt="Rajesh | Shell" width="22px" src="Supp_files/shell.png" />]
-[<img align="left" alt="Rajesh | JIRA" width="22px" src="Supp_files/jira.png" />]
-[<img align="left" alt="Rajesh | Confluence" width="22px" src="Supp_files/confluence.png" />]
+[<img align="left" alt="Rajesh | Python" width="42px" src="Supp_files/python.png" />]
+[<img align="left" alt="Rajesh | Pandas" width="42px" src="Supp_files/pandas.jpg" />]
+[<img align="left" alt="Rajesh | Numpy" width="42px" src="Supp_files/numpy.png" />]
+[<img align="left" alt="Rajesh | Matplotlib" width="42px" src="Supp_files/Matplotlib.jpeg" />]
+[<img align="left" alt="Rajesh | Seaborn" width="42px" src="Supp_files/seaborn.png" />]
+[<img align="left" alt="Rajesh | Scikit-learn" width="42px" src="Supp_files/sklearn.jpg" />]
 <br />
 <br />
 
