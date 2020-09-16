@@ -20,12 +20,26 @@
 <br />
 
 ### **``Languages and Tools``**
-[<img align="left" alt="Rajesh | Python" width="70px" src="Supp_files/python.png" />](https://www.python.org/)
-[<img align="left" alt="Rajesh | Numpy" width="70px" src="Supp_files/numpy.png" />](https://numpy.org/)
-[<img align="left" alt="Rajesh | Pandas" width="70px" src="Supp_files/pandas.jpg" />](https://pandas.pydata.org/)
-[<img align="left" alt="Rajesh | Matplotlib" width="70px" src="Supp_files/Matplotlib.jpeg" />](https://matplotlib.org/)
-[<img align="left" alt="Rajesh | Seaborn" width="70px" src="Supp_files/seaborn.png" />](https://seaborn.pydata.org/)
-[<img align="left" alt="Rajesh | Scikit-learn" width="70px" src="Supp_files/sklearn.jpg" />](https://scikit-learn.org/stable/)
-
+[<img align="left" alt="Rajesh | Python" width="75px" src="Supp_files/python.png" />](https://www.python.org/)
+[<img align="left" alt="Rajesh | Numpy" width="75px" src="Supp_files/numpy.png" />](https://numpy.org/)
+[<img align="left" alt="Rajesh | Pandas" width="75px" src="Supp_files/pandas.jpg" />](https://pandas.pydata.org/)
+[<img align="left" alt="Rajesh | Matplotlib" width="75px" src="Supp_files/Matplotlib.jpeg" />](https://matplotlib.org/)
+[<img align="left" alt="Rajesh | Seaborn" width="75px" src="Supp_files/seaborn.png" />](https://seaborn.pydata.org/)
+[<img align="left" alt="Rajesh | Scikit-learn" width="75px" src="Supp_files/sklearn.jpg" />](https://scikit-learn.org/stable/)
+[<img align="left" alt="Rajesh | Tensorflow" width="75px" src="Supp_files/tf.png" />]()
+[<img align="left" alt="Rajesh | Keras" width="75px" src="Supp_files/keras.png" />]()
+[<img align="left" alt="Rajesh | Scipy" width="75px" src="Supp_files/scipy.jpg" />]()
+[<img align="left" alt="Rajesh | Statsmodels" width="75px" src="Supp_files/statsmodels.svg" />]()
+[<img align="left" alt="Rajesh | Jupyter Notebook" width="75px" src="Supp_files/jupyter.png" />]()
+[<img align="left" alt="Rajesh | Spyder" width="75px" src="Supp_files/spyder.png" />]()
+[<img align="left" alt="Rajesh | Streamlit" width="75px" src="Supp_files/streamlit.png" />]()
+[<img align="left" alt="Rajesh | Heroku" width="75px" src="Supp_files/heroku.jpg" />]()
+[<img align="left" alt="Rajesh | Docker" width="75px" src="Supp_files/docker.png" />]()
+[<img align="left" alt="Rajesh | Git" width="75px" src="Supp_files/git.png" />]()
+[<img align="left" alt="Rajesh | GitHub" width="75px" src="Supp_files/github.png" />]()
+[<img align="left" alt="Rajesh | SQL" width="75px" src="Supp_files/sql.jpg" />]()
+[<img align="left" alt="Rajesh | Shell" width="75px" src="Supp_files/shell.png" />]()
+[<img align="left" alt="Rajesh | JIRA" width="75px" src="Supp_files/jira.png" />]()
+[<img align="left" alt="Rajesh | Confluence" width="75px" src="Supp_files/confluence.png" />]()
 <br />
 <br />
