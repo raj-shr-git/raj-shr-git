@@ -20,22 +20,22 @@
 <br />
 
 ### **``Languages and Tools``**
-[<img align="left" alt="Rajesh | Python" width="85px" 
+[<img align="left" alt="Rajesh | Python" width="90px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/python.png" />](https://www.python.org/)
-[<img align="left" alt="Rajesh | Numpy" width="85px" 
+[<img align="left" alt="Rajesh | Numpy" width="90px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/numpy.png" />](https://numpy.org/)
-[<img align="left" alt="Rajesh | Pandas" width="85px" 
+[<img align="left" alt="Rajesh | Pandas" width="90px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/pandas.jpg" />](https://pandas.pydata.org/)
-[<img align="left" alt="Rajesh | Matplotlib" width="85px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/Matplotlib.jpeg" />](https://matplotlib.org/)
-[<img align="left" alt="Rajesh | Seaborn" width="85px" 
+[<img align="left" alt="Rajesh | Matplotlib" width="90px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/Matplotlib.jpeg" />](https://matplotlib.org/)
+[<img align="left" alt="Rajesh | Seaborn" width="90px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/seaborn.png" />](https://seaborn.pydata.org/)
-[<img align="left" alt="Rajesh | Scikit-learn" width="85px" 
+[<img align="left" alt="Rajesh | Scikit-learn" width="95px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sklearn.jpg" />](https://scikit-learn.org/stable/)
-[<img align="left" alt="Rajesh | Tensorflow" width="95px" 
+[<img align="left" alt="Rajesh | Tensorflow" width="100px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/tf.png" />](https://www.tensorflow.org/)
-[<img align="left" alt="Rajesh | Keras" width="80px" 
+[<img align="left" alt="Rajesh | Keras" width="85px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/keras.png" />](https://keras.io/)
-<br/>
+<br />
 [<img align="left" alt="Rajesh | Scipy" width="45px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/scipy.jpg" />](https://www.scipy.org/)
 [<img align="left" alt="Rajesh | Statsmodels" width="45px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/statsmodels.svg" />](https://www.statsmodels.org/stable/index.html)
@@ -54,7 +54,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/git
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/github.png" />](https://github.com/)
 [<img align="left" alt="Rajesh | SQL" width="55px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sql.jpg" />](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
-<br/>
+<br />
 [<img align="left" alt="Rajesh | Shell" width="40px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/shell.png" />](https://www.shellscript.sh/)
 [<img align="left" alt="Rajesh | JIRA" width="50px" 
