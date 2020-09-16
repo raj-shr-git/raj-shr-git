@@ -9,4 +9,7 @@
 - 📫 How to reach me: You can send me an email at raj.shr2609@gmail.com
 
 ### Listen Ambient Music 🎧
-[<img src="https://soundcloud.com/petroll/wondering-what-will-happen" alt="Rajesh Sound Cloud Playing" width="350" />](https://soundcloud.com/petroll/wondering-what-will-happen)
+![Ambient_music](Supp_files/sound_cloud.gif)(https://soundcloud.com/petroll/wondering-what-will-happen)
+
+[<img src=Supp_files/sound_cloud.gif alt="Rajesh Sound Cloud Playing" width="350" />]
+(https://soundcloud.com/petroll/wondering-what-will-happen)
