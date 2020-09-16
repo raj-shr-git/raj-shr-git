@@ -33,12 +33,12 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sea
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sklearn.jpg" />](https://scikit-learn.org/stable/)
 [<img align="left" alt="Rajesh | Tensorflow" width="100px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/tf.png" />](https://www.tensorflow.org/)
-
-<br />
-<br />
-
 [<img align="left" alt="Rajesh | Keras" width="85px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/keras.png" />](https://keras.io/)
+
+<br />
+<br />
+
 [<img align="left" alt="Rajesh | Scipy" width="45px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/scipy.jpg" />](https://www.scipy.org/)
 [<img align="left" alt="Rajesh | Statsmodels" width="45px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/statsmodels.svg" />](https://www.statsmodels.org/stable/index.html)
