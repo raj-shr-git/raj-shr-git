@@ -9,7 +9,7 @@
 - 📫 How to reach me: You can send me an email at raj.shr2609@gmail.com
 
 ### Love to listen Ambient Music 🎧
-[<img src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/sound_cloud.gif" alt="Ambient Song" width="110" />](https://soundcloud.com/ambientmusicalgenre/kasseo-border)
+[<img src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/sound_cloud.gif" alt="Ambient Song" width="140" />](https://soundcloud.com/ambientmusicalgenre/kasseo-border)
 
 ### **``Find me here``**
 [<img align="left" alt="Rajesh | Linkedin" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/linkedin.svg" />](https://www.linkedin.com/in/rajesh-ml-engg)
@@ -55,8 +55,8 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/git
 [<img align="left" alt="Rajesh | SQL" width="55px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sql.jpg" />](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
 <br/>
-[<img align="left" alt="Rajesh | Shell" width="45px" 
+[<img align="left" alt="Rajesh | Shell" width="40px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/shell.png" />](https://www.shellscript.sh/)
-[<img align="left" alt="Rajesh | JIRA" width="55px" 
+[<img align="left" alt="Rajesh | JIRA" width="50px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jira.png" />](https://www.atlassian.com/software/jira)
 [<img align="left" alt="Rajesh | Confluence" width="95px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/confluence.png" />](https://support.atlassian.com/confluence-cloud/)
