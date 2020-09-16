@@ -35,6 +35,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/skl
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/tf.png" />](https://www.tensorflow.org/)
 
 <br />
+<br />
 
 [<img align="left" alt="Rajesh | Keras" width="85px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/keras.png" />](https://keras.io/)
@@ -55,6 +56,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/git
 [<img align="left" alt="Rajesh | GitHub" width="65px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/github.png" />](https://github.com/)
 
+<br />
 <br />
 
 [<img align="left" alt="Rajesh | SQL" width="55px" 
