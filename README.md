@@ -9,12 +9,12 @@
 - 📫 How to reach me: You can send me an email at raj.shr2609@gmail.com
 
 ### Love to listen Ambient Music 🎧
-[<img src=Supp_files/sound_cloud.gif alt="Ambient Song" width="100" />](https://soundcloud.com/ambientmusicalgenre/kasseo-border)
+[<img src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/sound_cloud.gif" alt="Ambient Song" width="100" />](https://soundcloud.com/ambientmusicalgenre/kasseo-border)
 
 ### **``Find me here``**
-[<img align="left" alt="Rajesh | Linkedin" width="22px" src="Supp_files/linkedin.svg" />](https://www.linkedin.com/in/rajesh-ml-engg)
-[<img align="left" alt="Rajesh | Kaggle" width="22px" src="Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609)
-[<img align="left" alt="Rajesh | Medium" width="22px" src="Supp_files/medium.png" />](https://medium.com/@Rajesh_ML_Engg)
+[<img align="left" alt="Rajesh | Linkedin" width="22px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/linkedin.svg" />](https://www.linkedin.com/in/rajesh-ml-engg)
+[<img align="left" alt="Rajesh | Kaggle" width="22px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609)
+[<img align="left" alt="Rajesh | Medium" width="22px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/medium.png" />](https://medium.com/@Rajesh_ML_Engg)
 
 <br />
 <br />
