@@ -20,18 +20,18 @@
 <br />
 
 ### **``Languages and Tools``**
-[<img align="left" alt="Rajesh | Python" width="90px" 
+[<img align="left" alt="Rajesh | Python" width="85px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/python.png" />](https://www.python.org/)
-[<img align="left" alt="Rajesh | Numpy" width="90px" 
+[<img align="left" alt="Rajesh | Numpy" width="85px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/numpy.png" />](https://numpy.org/)
-[<img align="left" alt="Rajesh | Pandas" width="90px" 
+[<img align="left" alt="Rajesh | Pandas" width="85px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/pandas.jpg" />](https://pandas.pydata.org/)
-[<img align="left" alt="Rajesh | Matplotlib" width="90px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/Matplotlib.jpeg" />](https://matplotlib.org/)
-[<img align="left" alt="Rajesh | Seaborn" width="90px" 
+[<img align="left" alt="Rajesh | Matplotlib" width="85px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/Matplotlib.jpeg" />](https://matplotlib.org/)
+[<img align="left" alt="Rajesh | Seaborn" width="85px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/seaborn.png" />](https://seaborn.pydata.org/)
-[<img align="left" alt="Rajesh | Scikit-learn" width="95px" 
+[<img align="left" alt="Rajesh | Scikit-learn" width="85px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sklearn.jpg" />](https://scikit-learn.org/stable/)
-[<img align="left" alt="Rajesh | Tensorflow" width="100px" 
+[<img align="left" alt="Rajesh | Tensorflow" width="95px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/tf.png" />](https://www.tensorflow.org/)
 [<img align="left" alt="Rajesh | Keras" width="85px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/keras.png" />](https://keras.io/)
