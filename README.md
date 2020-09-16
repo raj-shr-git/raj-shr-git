@@ -19,12 +19,12 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Rajesh | Python" width="82px" src="Supp_files/python.png" />]()
-[<img align="left" alt="Rajesh | Pandas" width="82px" src="Supp_files/pandas.jpg" />]()
-[<img align="left" alt="Rajesh | Numpy" width="82px" src="Supp_files/numpy.png" />]()
-[<img align="left" alt="Rajesh | Matplotlib" width="82px" src="Supp_files/Matplotlib.jpeg" />]()
-[<img align="left" alt="Rajesh | Seaborn" width="82px" src="Supp_files/seaborn.png" />]()
-[<img align="left" alt="Rajesh | Scikit-learn" width="82px" src="Supp_files/sklearn.jpg" />]()
+[<img align="left" alt="Rajesh | Python" width="70px" src="Supp_files/python.png" />](https://www.python.org/)
+[<img align="left" alt="Rajesh | Numpy" width="70px" src="Supp_files/numpy.png" />](https://numpy.org/)
+[<img align="left" alt="Rajesh | Pandas" width="70px" src="Supp_files/pandas.jpg" />](https://pandas.pydata.org/)
+[<img align="left" alt="Rajesh | Matplotlib" width="70px" src="Supp_files/Matplotlib.jpeg" />](https://matplotlib.org/)
+[<img align="left" alt="Rajesh | Seaborn" width="70px" src="Supp_files/seaborn.png" />](https://seaborn.pydata.org/)
+[<img align="left" alt="Rajesh | Scikit-learn" width="70px" src="Supp_files/sklearn.jpg" />](https://scikit-learn.org/stable/)
 
 <br />
 <br />
