@@ -28,7 +28,9 @@
 [<img align="left" alt="Rajesh | Scikit-learn" width="85px" src="Supp_files/sklearn.jpg" />](https://scikit-learn.org/stable/)
 [<img align="left" alt="Rajesh | Tensorflow" width="95px" src="Supp_files/tf.png" />](https://www.tensorflow.org/)
 [<img align="left" alt="Rajesh | Keras" width="80px" src="Supp_files/keras.png" />](https://keras.io/)
+
 <br />
+
 [<img align="left" alt="Rajesh | Scipy" width="45px" src="Supp_files/scipy.jpg" />](https://www.scipy.org/)
 [<img align="left" alt="Rajesh | Statsmodels" width="45px" src="Supp_files/statsmodels.svg" />](https://www.statsmodels.org/stable/index.html)
 [<img align="left" alt="Rajesh | Jupyter Notebook" width="75px" src="Supp_files/jupyter.png" />](https://jupyterlab.readthedocs.io/en/stable/)
@@ -39,7 +41,9 @@
 [<img align="left" alt="Rajesh | Git" width="55px" src="Supp_files/git.png" />](https://git-scm.com/)
 [<img align="left" alt="Rajesh | GitHub" width="65px" src="Supp_files/github.png" />](https://github.com/)
 [<img align="left" alt="Rajesh | SQL" width="55px" src="Supp_files/sql.jpg" />](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
+
 <br />
+
 [<img align="left" alt="Rajesh | Shell" width="45px" src="Supp_files/shell.png" />]()
 [<img align="left" alt="Rajesh | JIRA" width="55px" src="Supp_files/jira.png" />]()
 [<img align="left" alt="Rajesh | Confluence" width="95px" src="Supp_files/confluence.png" />]()
