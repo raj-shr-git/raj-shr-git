@@ -33,7 +33,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sea
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sklearn.jpg" />](https://scikit-learn.org/stable/)
 [<img align="left" alt="Rajesh | Tensorflow" width="90px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/tf.png" />](https://www.tensorflow.org/)
-[<img align="left" alt="Rajesh | Keras" width="75px" 
+[<img align="left" alt="Rajesh | Keras" width="65px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/keras.png" />](https://keras.io/)
 [<img align="left" alt="Rajesh | Scipy" width="45px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/scipy.jpg" />](https://www.scipy.org/)
@@ -43,7 +43,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sci
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/spyder.png" />](https://www.spyder-ide.org/)
 [<img align="left" alt="Rajesh | Streamlit" width="60px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/streamlit.png" />](https://www.streamlit.io/)
-[<img align="left" alt="Rajesh | Heroku" width="40px" 
+[<img align="left" alt="Rajesh | Heroku" width="35px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/heroku.jpg" />](https://id.heroku.com/login)
 [<img align="left" alt="Rajesh | Docker" width="40px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/docker.png" />](https://www.docker.com/)
