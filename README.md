@@ -8,19 +8,21 @@
 - ⚡ Fun fact: I enjoy doing leather crafting, cooking and playing outdoor games
 - 📫 How to reach me: You can send me an email at raj.shr2609@gmail.com
 
-### Love to listen Ambient Music 🎧
+### Loves to 🎧 Ambient :musical_note: 
 [<img src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/sound_cloud.gif" alt="Ambient Song" width="140" />](https://soundcloud.com/ambientmusicalgenre/kasseo-border)
 
-### **``Find me here``**
+### **``Find me here``** :pushpin: 
+<!--Find me here--LIST:START -->
 [<img align="left" alt="Rajesh | Linkedin" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/linkedin.svg" />](https://www.linkedin.com/in/rajesh-ml-engg)
 [<img align="left" alt="Rajesh | Kaggle" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609)
 [<img align="left" alt="Rajesh | Medium" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/medium.png" />](https://medium.com/@Rajesh_ML_Engg)
-
+<!--Find me here--LIST:START -->
 <br />
 <br />
 
 
-### **``Languages and Tools``**
+### :computer: **``Languages and Tools``**
+<!--Languages and Tools--LIST:START -->
 [<img align="left" alt="Rajesh | Python" width="70px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/python.png" />](https://www.python.org/)
 [<img align="left" alt="Rajesh | Numpy" width="70px" 
@@ -59,6 +61,23 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/she
 [<img align="left" alt="Rajesh | JIRA" width="40px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jira.png" />](https://www.atlassian.com/software/jira)
 [<img align="left" alt="Rajesh | Confluence" width="95px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/confluence.png" />](https://support.atlassian.com/confluence-cloud/)
+<!--Languages and Tools--LIST:END -->
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<br />
-<br />
+### :green_book: **``Latest Blog Posts``**
+
+<!-- BLOG-POST-LIST:START -->
+- [Deep Dive in ML with Python : Initial Data Analysis — II](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-4d4d8ab37f07)
+- [Deep Dive in ML with Python : Initial Data Analysis (IDA) with example](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-ea09959c6e71)
+- [Deep Dive in ML with Python : Converse with the data](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-64bcbe0b1b40)
+- [Deep Dive in ML with Python : Data Visualization — III](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-19a67423218c)
+- [Deep Dive in ML with Python : Data Visualization — II](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-a5c1d0c8ed8a)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@Rajesh_ML_Engg)
+
+---
