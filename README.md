@@ -11,7 +11,7 @@
 ### Love to listen Ambient :musical_note: 🎧
 [<img src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/sound_cloud.gif" alt="Ambient Song" width="140" />](https://soundcloud.com/ambientmusicalgenre/kasseo-border)
 
-### **``Find me here``**
+### :pushpin: **``Find me here``**
 <!--Find me here--LIST:START -->
 [<img align="left" alt="Rajesh | Linkedin" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/linkedin.svg" />](https://www.linkedin.com/in/rajesh-ml-engg)
 [<img align="left" alt="Rajesh | Kaggle" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609)
@@ -68,7 +68,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 <br />
 <br />
 
-### 📕 **``Latest Blog Posts``**
+### :green_book: **``Latest Blog Posts``**
 
 <!-- BLOG-POST-LIST:START -->
 - [Deep Dive in ML with Python : Initial Data Analysis — II](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-4d4d8ab37f07)
