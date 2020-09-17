@@ -19,7 +19,6 @@
 <br />
 <br />
 
----
 
 ### **``Languages and Tools``**
 [<img align="left" alt="Rajesh | Python" width="70px" 
@@ -60,6 +59,6 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/she
 [<img align="left" alt="Rajesh | JIRA" width="40px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jira.png" />](https://www.atlassian.com/software/jira)
 [<img align="left" alt="Rajesh | Confluence" width="95px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/confluence.png" />](https://support.atlassian.com/confluence-cloud/)
+
 <br />
 <br />
----
