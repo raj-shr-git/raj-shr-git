@@ -19,6 +19,7 @@
 <!--Find me here--LIST:START -->
 <br />
 <br />
+---
 
 ### :computer: **``Languages and Tools``**
 <!--Languages and Tools--LIST:START -->
@@ -65,6 +66,8 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 <br />
 <br />
 <br />
+---
+
 <br />
 <br />
 
@@ -82,6 +85,9 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rajesh-ML-Engg&show_icons=true&hide_border=true" />
+### **``Latest Blog Posts``** :bar_chart:
+<img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rajesh-ML-Engg&show_icons=true&hide_border=true" />
+<br />
+<br />
+
+---
