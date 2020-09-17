@@ -17,7 +17,7 @@
 [<img align="left" alt="Rajesh | Kaggle" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609)
 [<img align="left" alt="Rajesh | Medium" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/medium.png" />](https://medium.com/@Rajesh_ML_Engg)
 <!--Find me here--LIST:START -->
-<br />
+
 <br />
 
 ---
@@ -63,8 +63,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/she
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jira.png" />](https://www.atlassian.com/software/jira)
 [<img align="left" alt="Rajesh | Confluence" width="95px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/confluence.png" />](https://support.atlassian.com/confluence-cloud/)
 <!--Languages and Tools--LIST:END -->
-<br />
-<br />
+
 <br />
 <br />
 
@@ -95,4 +94,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 <br />
 <br />
 <br />
+<br />
+<br />
+
 ---
