@@ -85,9 +85,12 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 
 ---
 
-### **``Latest Blog Posts``** :bar_chart:
+### **``GitHub Stats``** :bar_chart:
 <img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rajesh-ML-Engg&show_icons=true&hide_border=true" />
 <br />
 <br />
-
+<br />
+<br />
+<br />
+<br />
 ---
