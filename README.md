@@ -12,15 +12,17 @@
 [<img src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/sound_cloud.gif" alt="Ambient Song" width="140" />](https://soundcloud.com/ambientmusicalgenre/kasseo-border)
 
 ### **``Find me here``**
+<!--Find me here--LIST:START -->
 [<img align="left" alt="Rajesh | Linkedin" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/linkedin.svg" />](https://www.linkedin.com/in/rajesh-ml-engg)
 [<img align="left" alt="Rajesh | Kaggle" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609)
 [<img align="left" alt="Rajesh | Medium" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/medium.png" />](https://medium.com/@Rajesh_ML_Engg)
-
+<!--Find me here--LIST:START -->
 <br />
 <br />
 
 
 ### **``Languages and Tools``**
+<!--Languages and Tools--LIST:START -->
 [<img align="left" alt="Rajesh | Python" width="70px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/python.png" />](https://www.python.org/)
 [<img align="left" alt="Rajesh | Numpy" width="70px" 
@@ -59,9 +61,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/she
 [<img align="left" alt="Rajesh | JIRA" width="40px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jira.png" />](https://www.atlassian.com/software/jira)
 [<img align="left" alt="Rajesh | Confluence" width="95px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/confluence.png" />](https://support.atlassian.com/confluence-cloud/)
-
-<br />
-<br />
+<!--Languages and Tools--LIST:END -->
 <br />
 <br />
 <br />
