@@ -1,6 +1,6 @@
 ## Hi there, I'm Rajesh 👋
 
-#### **I'm a Son, Brother, Friend, Developer, and Teacher!**
+### **I'm a Son, Brother, Friend, Developer, and Teacher!**
 - 🔭 I’m currently working on [Indian Population Statistical Analysis](https://www.kaggle.com/sm261998/indian-population-stats-for-data-analysis)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Data Scientists and ML Engineers
@@ -18,6 +18,8 @@
 
 <br />
 <br />
+
+---
 
 ### **``Languages and Tools``**
 [<img align="left" alt="Rajesh | Python" width="70px" 
@@ -60,3 +62,4 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 [<img align="left" alt="Rajesh | Confluence" width="95px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/confluence.png" />](https://support.atlassian.com/confluence-cloud/)
 <br />
 <br />
+---
