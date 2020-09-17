@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I enjoy doing leather crafting, cooking and playing outdoor games
 - 📫 How to reach me: You can send me an email at raj.shr2609@gmail.com
 
-### Love to listen Ambient Music 🎧
+### Love to listen Ambient :musical_note: 🎧
 [<img src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/sound_cloud.gif" alt="Ambient Song" width="140" />](https://soundcloud.com/ambientmusicalgenre/kasseo-border)
 
 ### **``Find me here``**
@@ -21,7 +21,7 @@
 <br />
 
 
-### **``Languages and Tools``**
+### :computer: **``Languages and Tools``**
 <!--Languages and Tools--LIST:START -->
 [<img align="left" alt="Rajesh | Python" width="70px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/python.png" />](https://www.python.org/)
