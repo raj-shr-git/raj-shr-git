@@ -38,10 +38,10 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/ker
 [<img align="left" alt="Rajesh | Scipy" width="45px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/scipy.jpg" />](https://www.scipy.org/)
 [<img align="left" alt="Rajesh | Statsmodels" width="45px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/statsmodels.svg" />](https://www.statsmodels.org/stable/index.html)
-[<img align="left" alt="Rajesh | Jupyter Notebook" width="70px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jupyter.png" />](https://jupyterlab.readthedocs.io/en/stable/)
-[<img align="left" alt="Rajesh | Spyder" width="45px" 
+[<img align="left" alt="Rajesh | Jupyter Notebook" width="60px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jupyter.png" />](https://jupyterlab.readthedocs.io/en/stable/)
+[<img align="left" alt="Rajesh | Spyder" width="40px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/spyder.png" />](https://www.spyder-ide.org/)
-[<img align="left" alt="Rajesh | Streamlit" width="65px" 
+[<img align="left" alt="Rajesh | Streamlit" width="60px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/streamlit.png" />](https://www.streamlit.io/)
 [<img align="left" alt="Rajesh | Heroku" width="40px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/heroku.jpg" />](https://id.heroku.com/login)
@@ -51,7 +51,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/doc
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/git.png" />](https://git-scm.com/)
 [<img align="left" alt="Rajesh | GitHub" width="60px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/github.png" />](https://github.com/)
-[<img align="left" alt="Rajesh | SQL" width="50px" 
+[<img align="left" alt="Rajesh | SQL" width="45px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/sql.jpg" />](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
 [<img align="left" alt="Rajesh | Shell" width="30px" 
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/shell.png" />](https://www.shellscript.sh/)
