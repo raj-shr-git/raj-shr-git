@@ -62,18 +62,16 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 
 <br />
 <br />
+### 
 
-### 📕 Latest Blog Posts
+### 📕 **``Latest Blog Posts``**
 
 <!-- BLOG-POST-LIST:START -->
 - [Deep Dive in ML with Python : Initial Data Analysis — II](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-4d4d8ab37f07)
 - [Deep Dive in ML with Python : Initial Data Analysis (IDA) with example](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-ea09959c6e71)
-- [Deep Dive in ML with Python : Converse with the data]
-(https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-64bcbe0b1b40)
-- [Deep Dive in ML with Python : Data Visualization — III]
-(https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-19a67423218c)
-- [Deep Dive in ML with Python : Data Visualization — II]
-(https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-a5c1d0c8ed8a)
+- [Deep Dive in ML with Python : Converse with the data](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-64bcbe0b1b40)
+- [Deep Dive in ML with Python : Data Visualization — III](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-19a67423218c)
+- [Deep Dive in ML with Python : Data Visualization — II](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-a5c1d0c8ed8a)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@Rajesh_ML_Engg)
