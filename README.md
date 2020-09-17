@@ -17,9 +17,9 @@
 [<img align="left" alt="Rajesh | Kaggle" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609)
 [<img align="left" alt="Rajesh | Medium" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/medium.png" />](https://medium.com/@Rajesh_ML_Engg)
 <!--Find me here--LIST:START -->
-<br />
-<br />
 
+<br />
+<br />
 
 ### :computer: **``Languages and Tools``**
 <!--Languages and Tools--LIST:START -->
@@ -62,11 +62,14 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/she
 src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jira.png" />](https://www.atlassian.com/software/jira)
 [<img align="left" alt="Rajesh | Confluence" width="95px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/confluence.png" />](https://support.atlassian.com/confluence-cloud/)
 <!--Languages and Tools--LIST:END -->
+
 <br />
 <br />
 <br />
 <br />
 <br />
+
+---
 
 ### :green_book: **``Latest Blog Posts``**
 
@@ -79,5 +82,18 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@Rajesh_ML_Engg)
+
+---
+
+### :bar_chart: **``GitHub Stats``** 
+<img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rajesh-ML-Engg&show_icons=true&hide_border=true" />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ---
