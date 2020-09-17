@@ -20,7 +20,6 @@
 <br />
 <br />
 
-
 ### :computer: **``Languages and Tools``**
 <!--Languages and Tools--LIST:START -->
 [<img align="left" alt="Rajesh | Python" width="70px" 
@@ -67,6 +66,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 <br />
 <br />
 <br />
+<br />
 
 ### :green_book: **``Latest Blog Posts``**
 
@@ -81,3 +81,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 ➡️ [more blog posts...](https://medium.com/@Rajesh_ML_Engg)
 
 ---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rajesh-ML-Engg&show_icons=true&hide_border=true" />
