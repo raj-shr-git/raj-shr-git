@@ -19,8 +19,7 @@
 <!--Find me here--LIST:START -->
 
 <br />
-
----
+<br />
 
 ### :computer: **``Languages and Tools``**
 <!--Languages and Tools--LIST:START -->
@@ -64,6 +63,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 [<img align="left" alt="Rajesh | Confluence" width="95px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/confluence.png" />](https://support.atlassian.com/confluence-cloud/)
 <!--Languages and Tools--LIST:END -->
 
+<br />
 <br />
 <br />
 
