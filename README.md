@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I enjoy doing leather crafting, cooking and playing outdoor games
 - 📫 How to reach me: You can send me an email at raj.shr2609@gmail.com
 
-### Loves to 🎧 Ambient :musical_note: 
+### I Loves to 🎧 Ambient :musical_note: 
 [<img src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/sound_cloud.gif" alt="Ambient Song" width="140" />](https://soundcloud.com/ambientmusicalgenre/kasseo-border)
 
 ### **``Find me here``** :pushpin: 
