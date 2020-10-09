@@ -1,4 +1,4 @@
-## Namaste :pray:, I'm Rajesh
+## :pray:, I'm Rajesh
 
 ### **I'm a Son, Brother, Friend, Developer, and Teacher!**
 - 🔭 I’m currently working on [Indian Population Statistical Analysis](https://www.kaggle.com/sm261998/indian-population-stats-for-data-analysis)
