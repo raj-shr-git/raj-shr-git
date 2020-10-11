@@ -1,14 +1,15 @@
 ## :pray:, I'm Rajesh
 
 ### **I'm a Son, Brother, Friend, Developer, and Teacher!**
-- 🔭 I’m currently working on [Indian Population Statistical Analysis](https://www.kaggle.com/sm261998/indian-population-stats-for-data-analysis)
+- 🔭 I’m currently learning how to explain the Black-Box models using Inrepretable packages and working on [Heart Failure Dataset](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data)
+- 🔭 I have parked my work on [Indian Population Statistical Analysis](https://www.kaggle.com/sm261998/indian-population-stats-for-data-analysis)
 - 🌱 I enjoy analyzing the health data & medical images to build more accurate, economical and stress-free  disease diagnosis systems
 - 👯 I’m looking to collaborate with other Data Scientists and ML Engineers
 - 🥅 2020 Goals: Contribute more to Open Source projects and solve real world problems
 - ⚡ Fun fact: I enjoy doing leather crafting, cooking and playing outdoor games
 - 📫 How to reach me: You can send me an email at raj.shr2609@gmail.com
 
-### I Loves to 🎧 Ambient :musical_note: 
+### I enjoy 🎧 Ambient :musical_note: 
 [<img src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/sound_cloud.gif" alt="Ambient Song" width="140" />](https://soundcloud.com/ambientmusicalgenre/kasseo-border)
 
 ### **``Find me here``** :pushpin: 
