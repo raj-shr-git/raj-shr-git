@@ -1,8 +1,9 @@
 ## :pray:, I'm Rajesh
 
 ### **I'm a Son, Brother, Friend, Developer, and Teacher!**
-- 🔭 I’m currently learning how to explain the Black-Box models using Interpretable packages and working on [Heart Failure Dataset](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data)
-- 🔭 I have parked my work on [Indian Population Statistical Analysis](https://www.kaggle.com/sm261998/indian-population-stats-for-data-analysis)
+- 🔭 I’m currently working with the text data to understand the Natural Language Processing techniques 
+- 🔭 I’m also learning how to explain the Black-Box models using Interpretable packages and working on [Heart Failure Dataset](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data)
+- 🔭 Recently, I submitted my analysis of Indian Population Dataset on Kaggle [Indian Population Statistical Analysis](https://www.kaggle.com/rajesh2609/indian-population-analysis)
 - 🌱 I enjoy analyzing the health data & medical images to build more accurate, economical and stress-free  disease diagnosis systems
 - 👯 I’m looking to collaborate with other Data Scientists and ML Engineers
 - 🥅 2020 Goals: Contribute more to Open Source projects and solve real world problems
