@@ -1,4 +1,4 @@
-## :pray:, Namaste!!
+## Namaste :pray:
 
 ### **I'm a Son, Brother, Friend, Developer, and Teacher!**
 - 🔭 I’m currently working with the text data to understand the Natural Language Processing techniques 
@@ -88,7 +88,7 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 - [Deep Dive in ML with Python : Data Visualization — III](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-19a67423218c)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@Rajesh_ML_Engg)
+➡️ [more blog posts...](https://rajesh-ml-engg.medium.com/)
 
 ---
 
