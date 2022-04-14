@@ -1,4 +1,4 @@
-## :pray:, I'm Rajesh
+## :pray:, Namaste!!
 
 ### **I'm a Son, Brother, Friend, Developer, and Teacher!**
 - 🔭 I’m currently working with the text data to understand the Natural Language Processing techniques 
@@ -16,8 +16,8 @@
 ### **``Find me here``** :pushpin: 
 <!--Find me here--LIST:START -->
 [<img align="left" alt="Rajesh | Linkedin" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/linkedin.svg" />](https://www.linkedin.com/in/rajesh-ml-engg)
-[<img align="left" alt="Rajesh | Kaggle" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609)
-[<img align="left" alt="Rajesh | Medium" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/medium.png" />](https://medium.com/@Rajesh_ML_Engg)
+[<img align="left" alt="Rajesh | Kaggle" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609/notebooks)
+[<img align="left" alt="Rajesh | Medium" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/medium.png" />](https://rajesh-ml-engg.medium.com/)
 <!--Find me here--LIST:START -->
 
 <br />
@@ -77,11 +77,15 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 ### :green_book: **``Latest Blog Posts``**
 
 <!-- BLOG-POST-LIST:START -->
+
+- [Statistics an ancient tool to unearth the present-day Data Science](https://medium.com/geekculture/statistics-an-ancient-tool-to-unearth-the-present-day-data-science-9468fe658402)
+- [Let's find some outliers with Isolation Forest](https://medium.datadriveninvestor.com/lets-find-some-outliers-with-isolation-forest-4ed22175a8d3)
+- [Does Isolation Forest really perform well in its task?](https://medium.datadriveninvestor.com/does-isolation-forest-really-perform-well-in-its-task-d5669cba589a)
+- [Does RANSAC is a robust approach for outliers detection?](https://medium.datadriveninvestor.com/does-ransac-is-a-robust-approach-for-outliers-detection-5ddd3720345)
 - [Deep Dive in ML with Python : Initial Data Analysis — II](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-4d4d8ab37f07)
 - [Deep Dive in ML with Python : Initial Data Analysis (IDA) with example](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-ea09959c6e71)
 - [Deep Dive in ML with Python : Converse with the data](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-64bcbe0b1b40)
 - [Deep Dive in ML with Python : Data Visualization — III](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-19a67423218c)
-- [Deep Dive in ML with Python : Data Visualization — II](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-a5c1d0c8ed8a)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@Rajesh_ML_Engg)
