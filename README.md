@@ -1,13 +1,12 @@
 ## Namaste :pray:
 
 ### **I'm a Son, Brother, Friend, Developer, and Teacher!**
-- 🔭 I’m currently working with the text data to understand the Natural Language Processing techniques 
-- 🔭 I’m also learning how to explain the Black-Box models using Interpretable packages and working on [Heart Failure Dataset](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data)
-- 🔭 Recently, I submitted my analysis of Indian Population Dataset on Kaggle [Indian Population Statistical Analysis](https://www.kaggle.com/rajesh2609/indian-population-analysis)
-- 🌱 I enjoy analyzing the health data & medical images to build more accurate, economical and stress-free  disease diagnosis systems
+- 🌱 I enjoy analyzing the Insurance & Health data to build more accurate, economical and hassle-free data oriented intelligent systems
+- 🔭 I submitted my analysis on Kaggle for [Coronary Artery Disease](https://www.kaggle.com/code/rajesh2609/coronary-artery-disease-analysis)
+- 🔭 I submitted my analysis on Kaggle for [Indian Population Statistical Analysis](https://www.kaggle.com/rajesh2609/indian-population-analysis)
 - 👯 I’m looking to collaborate with other Data Scientists and ML Engineers
-- 🥅 2020 Goals: Contribute more to Open Source projects and solve real world problems
-- ⚡ Fun fact: I enjoy doing leather crafting, cooking and playing outdoor games
+- 🥅 2022 Goals: Contribute more to Open Source projects and solve real world problems
+- ⚡ Fun fact: I enjoy doing leather crafting, reading scriptures, cooking and playing outdoor games
 - 📫 How to reach me: You can send me an email at raj.shr2609@gmail.com
 
 ### I enjoy 🎧 Ambient :musical_note: 
@@ -17,7 +16,7 @@
 <!--Find me here--LIST:START -->
 [<img align="left" alt="Rajesh | Linkedin" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/linkedin.svg" />](https://www.linkedin.com/in/rajesh-ml-engg)
 [<img align="left" alt="Rajesh | Kaggle" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609/notebooks)
-[<img align="left" alt="Rajesh | Medium" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/medium.png" />](https://rajesh-ml-engg.medium.com/)
+[<img align="left" alt="Rajesh | Medium" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/medium.png" />](https://raj-shr.medium.com/)
 <!--Find me here--LIST:START -->
 
 <br />
