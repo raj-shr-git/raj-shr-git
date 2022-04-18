@@ -88,12 +88,12 @@ src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/master/Supp_files/jir
 - [Deep Dive in ML with Python : Data Visualization — III](https://medium.com/analytics-vidhya/deep-dive-in-machine-learning-with-python-19a67423218c)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://rajesh-ml-engg.medium.com/)
+➡️ [more blog posts...](https://raj-shr.medium.com/)
 
 ---
 
 ### :bar_chart: **``GitHub Stats``** 
-<img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rajesh-ML-Engg&show_icons=true&theme=tokyonight&hide_border=true" />
+<img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raj-shr-git&show_icons=true&theme=tokyonight&hide_border=true" />
 <br />
 <br />
 <br />
