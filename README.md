@@ -3,7 +3,7 @@
 ### **I'm a Son, Brother, Friend, Developer, and Teacher!**
 - 🌱 I enjoy analyzing the Insurance & Health data to build more accurate, economical and hassle-free data oriented intelligent systems
 - 🔭 I submitted my analysis on Kaggle for [Medicare Provider Fraud Detection](https://www.kaggle.com/code/rajesh2609/medicare-provider-fraud-detection/)
-- 🔭 I submitted my analysis on Kaggle for [Apple Foliar Disease Detection](https://www.kaggle.com/datasets/rajesh2609/plant-pathology-2020-supp-files)
+- 🔭 I submitted my analysis on Kaggle for [Apple Foliar Disease Detection](https://www.kaggle.com/code/rajesh2609/apple-foliar-diseases-extensive-analysis)
 - 🔭 I submitted my analysis on Kaggle for [Coronary Artery Disease](https://www.kaggle.com/code/rajesh2609/coronary-artery-disease-analysis)
 - 🔭 I submitted my analysis on Kaggle for [Indian Population Statistical Analysis](https://www.kaggle.com/rajesh2609/indian-population-analysis)
 - 👯 I’m looking to collaborate with other Data Scientists and ML Engineers
