@@ -16,9 +16,9 @@
 
 ### **``Find me here``** :pushpin: 
 <!--Find me here--LIST:START -->
-[<img align="left" alt="Rajesh | Linkedin" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/linkedin.svg" />](https://www.linkedin.com/in/rajesh-ml-engg)
-[<img align="left" alt="Rajesh | Kaggle" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609/notebooks)
-[<img align="left" alt="Rajesh | Medium" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/medium.png" />](https://raj-shr.medium.com/)
+[<img align="left" alt="Rajesh | Linkedin" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/linkedin.svg" />](https://linkedin.com/in/raj-shr)
+[<img align="left" alt="Rajesh | Kaggle" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/kaggle.png" />](https://www.kaggle.com/rajesh2609)
+[<img align="left" alt="Rajesh | Medium" width="25px" src="https://github.com/Rajesh-ML-Engg/Rajesh-ML-Engg/blob/dev/Supp_files/medium.png" />](http://raj-shr.medium.com/)
 <!--Find me here--LIST:START -->
 
 <br />
